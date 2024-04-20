@@ -2,6 +2,8 @@
 
 This repository contains a Full Stack CRUD application built using .NET for the backend API and Angular for the frontend.
 
+![1](https://github.com/shadyK7alifa/FullStack-CRUD/assets/167312255/1540cde8-1769-4e52-a3ee-7d87d249d7f1)
+
 ## How to Run
 
 Please follow the steps below to run the application:
